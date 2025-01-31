@@ -1,8 +1,6 @@
 ### Hello! I am a second year Computer Science student with a concentration in Artifical Intelligence at Northeastern Univerity!
 ### I enjoy coding and if you are interested in getting to know me more please feel free to contact me at:
 ### laurenli045@gmail.com 
-### OR
-### 908-323-5198
 ### Some fun facts about me include
 ### - I have a pet dog named Nebula 🐶
 ### - I love many forms art including clay-making, digital art and ink drawings!
