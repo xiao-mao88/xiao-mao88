@@ -3,7 +3,7 @@
 ### laurenli045@gmail.com 
  Some fun facts about me include
  - I have a pet dog named Nebula 🐶
- - I love many forms art including clay-making, digital art and ink drawings!
+ - I love many forms of art including clay-making, digital art and ink drawings!
  - I am a foodie and enjoy eating good food!
 
 <!--
