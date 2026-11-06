@@ -1,4 +1,4 @@
-### Hello! I am a second year Computer Science student with a concentration in Artifical Intelligence at Northeastern Univerity!
+### Hello! I am a senior Computer Science student with a concentration in Artifical Intelligence at Northeastern Univerity!
 ### I enjoy coding and if you are interested in getting to know me more please feel free to contact me at:
 ### laurenli045@gmail.com 
  Some fun facts about me include
